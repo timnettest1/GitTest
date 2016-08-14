@@ -11,5 +11,21 @@ namespace Learn
         static void Main(string[] args)
         {
         }
+
+        private void master()
+        {
+        }
+
+        private void dev()
+        {
+        }
+
+        private void fa()
+        {
+        }
+
+        private void fb()
+        {
+        }
     }
 }

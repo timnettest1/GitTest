@@ -12,18 +12,30 @@ namespace Learn
         {
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         private void master()
         {
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         private void dev()
         {
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         private void fa()
         {
         }
 
+        /// <summary>
+        /// 
+        /// </summary>
         private void fb()
         {
         }

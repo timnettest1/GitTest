@@ -15,6 +15,7 @@ namespace Learn
         /// <summary>
         /// 2
         /// 3
+        /// 7
         /// </summary>
         private void master()
         {

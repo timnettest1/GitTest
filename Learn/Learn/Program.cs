@@ -13,11 +13,5 @@ namespace Learn
             //J
             //K
         }
-
-        private void master()
-        {
-            //L
-            //M
-        }
     }
 }

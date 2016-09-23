@@ -14,6 +14,11 @@ namespace Learn
             //K
         }
 
+        private void dev()
+        {
+            //N
+        }
+
         private void master()
         {
             //L
